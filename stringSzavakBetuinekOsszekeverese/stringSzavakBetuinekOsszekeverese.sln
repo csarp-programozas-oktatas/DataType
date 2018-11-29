@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringSzavakBetuinekOsszekeverese", "stringSzavakBetuinekOsszekeverese\stringSzavakBetuinekOsszekeverese.csproj", "{73EE1F61-8238-419D-9E5D-7EBE85A4CAE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73EE1F61-8238-419D-9E5D-7EBE85A4CAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EE1F61-8238-419D-9E5D-7EBE85A4CAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EE1F61-8238-419D-9E5D-7EBE85A4CAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EE1F61-8238-419D-9E5D-7EBE85A4CAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F114A638-87E5-44C5-8DC1-6E2522C01523}
+	EndGlobalSection
+EndGlobal
