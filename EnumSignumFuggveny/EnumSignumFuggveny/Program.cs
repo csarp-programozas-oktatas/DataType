@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace EnumSignumFuggveny
 {
+    enum Elojel { POZITIV, NEGATIV, NULLA }
     class Program
     {
         static void Main(string[] args)
