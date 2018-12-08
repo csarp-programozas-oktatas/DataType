@@ -26,6 +26,20 @@ namespace EnumSignumFuggveny
         }
         static void Main(string[] args)
         {
+            int a = -3;
+            switch(elojel(a))
+            {
+                case Elojel.POZITIV:
+                    Console.WriteLine("A szám pozitív.");
+                    break;
+                case Elojel.NEGATIV:
+                    Console.WriteLine("A szám negatív.");
+                    break;
+                case Elojel.NULLA:
+                    Console.WriteLine("A szám nulla.");
+                    break;
+            }
+            Console.ReadKey();
         }
     }
 }
